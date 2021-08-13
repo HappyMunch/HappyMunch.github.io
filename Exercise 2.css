@@ -1,0 +1,69 @@
+#footer {
+	text-align:center;
+	padding-top:100px;
+}
+
+#News	{
+	text-indent:50px;
+	text-align:justify;
+	font-family:sans-serif;
+}
+
+#Announcements	{
+	text-indent:50px;
+	text-align:justify;
+	font-family:sans-serif;
+}
+
+#Menu	{
+	float: right;
+	text-align: left;
+	word-spacing: 50px;
+	padding-top: 50px;
+	padding-right: 420px;
+	padding-left: 200px;
+}
+
+#Title	{
+	text-align:center;
+	font-family:fantasy;
+}
+
+#Text	{
+	padding-left:30px;
+	padding-right:50px;
+}
+
+body	{
+	background-image:url("Background.png");
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+#Design	{
+	background-color:LightGreen;
+}
+
+#SocSci	{
+	text-indent:50px;
+	text-align:justify;
+	font-family:sans-serif;
+}
+
+#Engineering	{
+	text-indent:50px;
+	text-align:justify;
+	font-family:sans-serif;
+}
+
+#Presentation	{
+	text-indent:50px;
+	text-align:justify;
+	font-family:sans-serif;
+}
+
+#Staff	{
+	text-indent:50px;
+	text-align:justify;
+	font-family:sans-serif;
+}
